@@ -4,7 +4,7 @@ setup(
     name='harmonic-networks',
     version='0.0.1',
     description='PyTorch reimplementation of harmonic networks',
-    packages=['harmonic', 'harmonic.d2'],
+    packages=['harmonic', 'harmonic.d2', 'harmonic.d3'],
     author='Michał Tyszkiewicz',
     author_email='michal.tyszkiewicz@gmail.com',
 )
